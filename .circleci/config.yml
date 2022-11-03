@@ -68,7 +68,7 @@ jobs:
             npm run api:install
             npm run frontend:build
             npm run api:build
-            npm run frontend:deploy
+            # npm run frontend:deploy
             npm run api:deploy
 
 workflows:
