@@ -22,8 +22,6 @@
 
 ## Overview
 
-![screenshot](img/desktop.jpeg)
-
 this is a full stack application deployed in AWS and used circleCI as a CI/CD tool and now this is all services I used at AWS (RDS, AWS Elastic
 Beanstalk and S3) and here is architecture that i used for this application
 
@@ -34,7 +32,5 @@ Beanstalk and S3) and here is architecture that i used for this application
 1. clone the repo using
 
 ```sh
-git clone
+git clone https://github.com/moezzat-git/udagram.git
 ```
-
-2. install dependencies for server and frontend by going to the
