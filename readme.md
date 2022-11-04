@@ -15,10 +15,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-
+- [infrastructure](./documentation/infrastructure.md)
+- [dependencies](./documentation/dependecies.md)
+- [pipeline process](./documentation/pipeline.md)
 <!-- OVERVIEW -->
 
 ## Overview
@@ -39,8 +38,3 @@ git clone
 ```
 
 2. install dependencies for server and frontend by going to the
-
-## Contact
-
-- GitHub [@moezzat-git](https://{github.com/your-usermame})
-- Twitter [@M0hamed_Ezzat](https://{twitter.com/your-username})
